@@ -16,8 +16,8 @@ load_dotenv()
 
 llm = ChatGroq(
     model="llama-3.3-70b-versatile",
-    temperature=0.7
-)
+   temperature=0.7
+) 
 
 
 # Editor node
